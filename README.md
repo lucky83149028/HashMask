@@ -1,1 +1,3 @@
 # HashMask
+
+Clone of HashMask
